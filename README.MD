@@ -1,10 +1,10 @@
 
 
-# Setting Up Jenking Continuous integration tools
+# $$ Setting Up Jenking Continuous integration tools
 
-# This project will be all about setting up the Jenking in local and remote.
+# $$ This project will be all about setting up the Jenking in local and remote.
 
-		Steps to be followed
+#	Steps to be followed
 
 	* Follow the documentation to install java in your machine
 			The file could be found here,
