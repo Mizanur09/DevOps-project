@@ -11,3 +11,19 @@
 
 	** Open WenBrowser and navigate to {localhost:(Custom Port Number)}
 
+	for the first time user
+	$$ Costomize jenkins page will display with
+	{Install suggested plugins} and {Select Plugins to Install}
+	$$ Click on [Selec Plugins to install]
+	$$ Select all the Plugins as needed 
+	$$ Click on Install
+
+	$$ Crete First Admin User page will display with following options
+		* Username []
+		* Password []
+		* Confirm Password []
+		* Full name []
+		{Cotinue as admin} and {Save and Finish} button
+
+
+### jenking stanalon will start and home page will displayed ###
