@@ -1,15 +1,22 @@
-# Steps by Steps java installation process
+# Steps by Steps jenkins installation process
+	
 	* Open web Browser and navigate to (https://jenkins.io/download/)
 	* Open your commend prompt from start menu
 	* Navigate to folder where jenkins downloaded.
+	
+	$ Make localhost:8080
 	* type on commend prompt (java -jar jenkins.war) Enter
 	 ** open WebBrowser and navigate to (localhost:8080) 
-
-	* Make Custom port for jenkins 
-	* Type on commend Prompt (java -jar jenkins.war --httpPort=(portNumber)) Enter
-		
+	
+	$ Make Custom port for jenkins 
+	* Type on commend Prompt (java -jer jenkins.war --httpPort=(portNumber)) Enter
+		$$Example
+			$ localhost:8080 (default)
 
 	** Open WenBrowser and navigate to {localhost:(Custom Port Number)}
+	$$ Example
+		$ localhost:9090
+		$ localhost:909
 
 	for the first time user
 	$$ Costomize jenkins page will display with
@@ -26,4 +33,4 @@
 		{Cotinue as admin} and {Save and Finish} button
 
 
-### jenking stanalon will start and home page will displayed ###
+### jenking Stand alone will start and home page will displayed ###
