@@ -12,7 +12,7 @@
 
 	* Follow the documenttation to install jenkins in your machine
 			The file could be found here
-				{C:\Project\DevOps-project\Relevant_apps\Jenkins-app\jenkins.md}
 
+				{C:\Project\DevOps-project\Relevant_apps\Jenkins-app\jenkins.md}
 
 	
