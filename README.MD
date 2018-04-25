@@ -8,11 +8,11 @@
 
 	* Follow the documentation to install java in your machine
 			The file could be found here,
-				{C:\Desktop\My Files\Personal-repo\DevOps-project\Relevant_apps\Java-8-app\java Install for windows.md} 
+				{C:\Project\DevOps-project\Relevant_apps\Java-8-app\java Install for windows.md} 
 
 	* Follow the documenttation to install jenkins in your machine
 			The file could be found here
-				{C:\Desktop\My Files\Personal-repo\DevOps-project\Relevant_apps\Jenkins-app\jenkins.md}
-	
+
+				{C:\Project\DevOps-project\Relevant_apps\Jenkins-app\jenkins.md}
 
 	
