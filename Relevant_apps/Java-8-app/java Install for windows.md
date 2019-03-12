@@ -5,7 +5,7 @@
 		* Open System
 		* Look for System Type (64-bit Operating System, x64-based Processor) and close the folder.
 
-# {Step 1} Open the Broser 
+# {Step 1} Open the Browser 
 
 	*	Navigate to (https://java.com/en/download/)
 	*	Click on "Agree and start Free Download"
